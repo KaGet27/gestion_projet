@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6139d359259eee571a8efdb86b0f7ee6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3d4aca8e4f9ab7b3bc11b79fa09a14d8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e9e030e03fd27f6120e97a0c303e43c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\11f8de456bf2528a9704df7b0d8872a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\94f20e5b733805d6254732cdf33ecbd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\780190e31b01835529be6fa4ec8953cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b262719b86f3ca8462cfc4dc99b5d2cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b3f8f44ea6a61fc7d97fbf42de14298c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64badb449891897ed6b2a28ed7391be7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3494b3e299484d0ed1f2541e21d69f52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7033e4f524194410a1d1cd4e4d09b9ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\267c0ea4029cb2af4d4929bcf1d1eaae\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3d4aca8e4f9ab7b3bc11b79fa09a14d8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3d4aca8e4f9ab7b3bc11b79fa09a14d8\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.koko.customlintrule.Mac
+ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:12:19-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6139d359259eee571a8efdb86b0f7ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6139d359259eee571a8efdb86b0f7ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3d4aca8e4f9ab7b3bc11b79fa09a14d8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3d4aca8e4f9ab7b3bc11b79fa09a14d8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e9e030e03fd27f6120e97a0c303e43c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e9e030e03fd27f6120e97a0c303e43c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\11f8de456bf2528a9704df7b0d8872a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\11f8de456bf2528a9704df7b0d8872a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\94f20e5b733805d6254732cdf33ecbd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\94f20e5b733805d6254732cdf33ecbd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\780190e31b01835529be6fa4ec8953cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\780190e31b01835529be6fa4ec8953cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b262719b86f3ca8462cfc4dc99b5d2cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b262719b86f3ca8462cfc4dc99b5d2cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b3f8f44ea6a61fc7d97fbf42de14298c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b3f8f44ea6a61fc7d97fbf42de14298c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64badb449891897ed6b2a28ed7391be7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64badb449891897ed6b2a28ed7391be7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3494b3e299484d0ed1f2541e21d69f52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3494b3e299484d0ed1f2541e21d69f52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7033e4f524194410a1d1cd4e4d09b9ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7033e4f524194410a1d1cd4e4d09b9ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\267c0ea4029cb2af4d4929bcf1d1eaae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Paul\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\267c0ea4029cb2af4d4929bcf1d1eaae\AndroidManifest.xml:20:5-44
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+		ADDED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cours\Gestion de Projet\TestLint\CustomLintRule\app\src\main\AndroidManifest.xml
